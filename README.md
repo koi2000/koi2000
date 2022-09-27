@@ -4,7 +4,7 @@
   <img align="center" height = "167" src="https://github-readme-stats.vercel.app/api?username=koi2000&count_private=true&show_icons=true&theme=dark&hide=contribs&include_all_commits=true" />
 </a>
 <a href="https://github.com/koi2000?tab=repositories">
-  <img align="center" height = "167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koi2000&count_private=true&layout=compact&theme=dark" />
+  <img align="center" height = "167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koi2000&count_private=true&layout=compact&theme=dark&hide=html" />
 </a>
 
 <!--
