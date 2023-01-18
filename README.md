@@ -4,8 +4,6 @@
   <img align="center" height = "167" src="https://github-readme-stats.vercel.app/api?username=koi2000&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
 </a>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koi2000)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/koi2000?tab=repositories">
   <img align="center" height = "167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koi2000&count_private=true&layout=compact&theme=dark&hide=html,css" />
 </a>
