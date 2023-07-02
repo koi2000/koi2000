@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/koi2000?tab=repositories">
-  <img align="center" height = "167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koi2000&count_private=true&layout=compact&theme=dark&hide=html,css&langs_count=8" />
+  <img align="center" height = "167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koi2000&count_private=true&layout=compact&theme=dark&hide=html,css&langs_count=10" />
 </a>
 
 <!--
