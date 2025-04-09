@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=koi2000)
+
+- 🌱 I’m currently learning Spatial Database / CUDA.
+- 🤔 I’m interested in Databases, Distributed Systems, OLAP.
+- 📫 How to reach me: koi.wiki.2000@gmail.com.
+- ⚡ I love open source!
+
+### Recent Pull Requests
+1. [[Enhancement] Support some spatial functions](https://github.com/apache/doris/pull/48695)
+   - Add ST_Intersects, ST_Disjoint, ST_Touches sql functions in Apache Doris.
+
 <a href="https://github.com/search?o=desc&q=author%3Akoi2000&s=committer-date&type=Commits">
   <img align="center" height = "167" src="https://github-readme-stats.vercel.app/api?username=koi2000&count_private=true&show_icons=true&theme=dark" />
 </a>
