@@ -2,8 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=koi2000)
 
-- 🌱 I’m currently learning Spatial Database / CUDA.
-- 🤔 I’m interested in Databases, Distributed Systems.
+- 🌱 I’m currently learning CUDA programming, LLM inference acceleration.
 - 📫 How to reach me: koi.wiki.2000@gmail.com.
 - ⚡ I love open source!
 
